@@ -17,6 +17,8 @@ class JPH_EXPORT TempAllocator : public NonCopyable
 public:
 	JPH_OVERRIDE_NEW_DELETE
 
+	TempAllocator() = default;
+
 	/// Destructor
 	virtual							~TempAllocator() = default;
 

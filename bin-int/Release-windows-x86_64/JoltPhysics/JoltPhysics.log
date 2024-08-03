@@ -1,0 +1,19 @@
+﻿  Character.cpp
+  CharacterVirtual.cpp
+  HeightFieldShape.cpp
+  StaticCompoundShape.cpp
+  ContactConstraintManager.cpp
+  IslandBuilder.cpp
+  LargeIslandSplitter.cpp
+  PhysicsScene.cpp
+  PhysicsSystem.cpp
+  PhysicsUpdateContext.cpp
+  Ragdoll.cpp
+  SoftBodyMotionProperties.cpp
+  MotorcycleController.cpp
+  TrackedVehicleController.cpp
+  VehicleCollisionTester.cpp
+  VehicleConstraint.cpp
+  WheeledVehicleController.cpp
+  Generating Code...
+  JoltPhysics.vcxproj -> C:\desktop\repos\Stakela\Stakela\vendor\JoltPhysics\bin\Release-windows-x86_64\JoltPhysics\JoltPhysics.lib
